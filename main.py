@@ -1,6 +1,5 @@
 import mods.game_loop as gameloop
 from math import sqrt
-import neat 
 import os
 
 x,y,z = 50,0,0
